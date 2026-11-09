@@ -253,8 +253,7 @@ export default function App() {
   const activeModulesCount = modulos.filter((m) => m.instalado).length;
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100 flex flex-col font-sans">
-      
+<div className="min-h-screen max-w-full overflow-x-hidden bg-slate-950 text-slate-100 flex flex-col font-sans">      
       {/* Official Top Bar Contract with navigation & action buttons */}
       <Header
         activeTab={activeTab}
