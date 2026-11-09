@@ -1,0 +1,8 @@
+{
+  "name": "Gestión Gerencial ISO 9001 - Carnes Preformadas Archie's",
+  "description": "Plataforma ejecutiva para la Gerencia General de producción de carnes preformadas, con ciclo PHVA ISO 9001, telemetría en tiempo real y principios de automatización industrial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
